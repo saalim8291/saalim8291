@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @saalim8291
-- 👀 I’m interested in coding
+- 👋 Hi, I’m @saalim bhatkar
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on
 
 <!---
 saalim8291/saalim8291 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
