@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on
 
-Checkout my website👇
+Checkout my website
 https://local-shopping-app.vercel.app/
-
 Source code(final-year-project)
 (Only for desktop and laptop) 
 
