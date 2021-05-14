@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saalim bhatkar
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on
+
 
 Checkout my website
 https://local-shopping-app.vercel.app/
