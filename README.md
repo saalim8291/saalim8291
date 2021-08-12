@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saalim bhatkar
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m MERN Stack developer
 
 
 
