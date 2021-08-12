@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saalim bhatkar
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development and web application development
 - 🌱 I’m MERN Stack developer
 
 
